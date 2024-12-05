@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: "Dmitrij Levyj - Data Science Portfolio"
-description: "Showcasing my projects and learning progress."
+title: "Dmitrij Levyj"
+description: "Data Science Portfolio"
+theme: "minimal-mistakes" # or any other theme you prefer
+baseurl: "" # Leave this empty unless you are using a subdirectory
+url: "https://dmitrij-levyj.github.io"
